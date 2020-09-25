@@ -6,9 +6,6 @@
   "author": "romain <r.fuentes@itso.fr>",
   "license": "MIT",
   "dependencies": {
-    "expo-cli": "^3.27.8",
-    "firebase": "^7.21.0",
-    "firebase-tools": "^8.11.0",
     "react-native": "^0.63.2"
   }
 }
