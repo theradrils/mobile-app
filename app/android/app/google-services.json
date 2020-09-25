@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658489184736",
+    "firebase_url": "https://web-mobil.firebaseio.com",
+    "project_id": "web-mobil",
+    "storage_bucket": "web-mobil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658489184736:android:5fa546c7268ca46eacdb85",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658489184736-cmdp1oeeg10gua1nr69lvbr1em414mvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACYxs3M2uBdSIxI1hlyf65HO3xk1NjzB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658489184736-cmdp1oeeg10gua1nr69lvbr1em414mvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
