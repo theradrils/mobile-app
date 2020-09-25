@@ -1,0 +1,7 @@
+{
+  "react-native": {
+    "crashytics_auto_collection_enabled": false,
+    "crashytics_debug_enabled": true,
+    "crashytics_ndk_enabled": false
+  }
+}
